@@ -1,4 +1,6 @@
-### Hi there, I'm CycleBai 👨‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=true&width=500&height=100&lines=CycleBai;GitHub;This+is+Just+a+Readme;Hey+Why+You're+Looking+Here%3F;You+are+Really+Bored+When+You+See+This.)](https://git.io/typing-svg)
+
+## Hi there, I'm CycleBai 👨‍💻
 
 [📧](unbounded.sydney@gmail.com)
 
