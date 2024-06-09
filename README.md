@@ -22,7 +22,6 @@
 ![CycleBai's GitHub stats](https://github-readme-stats.vercel.app/api?username=CycleBai&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CycleBai)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyclebai&show_icons=true&locale=en&layout=compact" alt="cyclebai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyclebai&show_icons=true&locale=en" alt="cyclebai" /></p>
 
