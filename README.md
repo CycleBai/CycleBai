@@ -2,9 +2,13 @@
 
 ## Hi there, I'm CycleBai 👨‍💻
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyclebai&label=Profile%20views&color=0e75b6&style=flat" alt="cyclebai" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyclebai" alt="cyclebai" /></a> </p>
+
 [📧](unbounded.sydney@gmail.com)
 
-> a frontEnd engineer(Full Stack)
+> a Frontend Engineer(Full Stack)
 
 #### 📍 Currently base at: Sydney, Australia
 
@@ -23,8 +27,5 @@
 
 ![CycleBai's GitHub stats](https://github-readme-stats.vercel.app/api?username=CycleBai&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CycleBai)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyclebai&show_icons=true&locale=en" alt="cyclebai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyclebai&" alt="cyclebai" /></p>
